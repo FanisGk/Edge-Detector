@@ -31,7 +31,6 @@ threshold = sys.argv[2]
 if (float(threshold) >= 1 or float(threshold) <= 0):
     print("Threshold must be in (0,1)\nExiting...")
     sys.exit()
-
 # check if image is RGB
 if (len(image.shape) == 3):
     image = convert_to_grayscale(image)
