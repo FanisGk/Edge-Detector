@@ -1,4 +1,4 @@
-# Computer Vision - 2st Set - FanisGk
+# Computer Vision - 2nd Set - FanisGk
 
 ## Name: Theofanis Gkaragkanis
 ## AM: 2422
