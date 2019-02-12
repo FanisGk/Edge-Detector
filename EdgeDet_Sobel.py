@@ -1,4 +1,4 @@
-#Name: Fanis Gkaragkanis
+#Name: FanisGk
 #Edge Detection with Sobel Filter
 import sys
 import numpy as np
