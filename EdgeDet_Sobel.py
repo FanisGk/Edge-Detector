@@ -1,5 +1,4 @@
 #Name: Fanis Gkaragkanis
-#AM: 2422
 #Edge Detection with Sobel Filter
 import sys
 import numpy as np
